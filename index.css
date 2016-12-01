@@ -1,0 +1,31 @@
+#tooltip{
+	visibility: hidden;
+	position:absolute;
+	width:400px;
+	z-index:2;
+	background-color:white;
+	border-style:solid;
+	border-color:black;
+}	
+
+#pibtooltip{
+	visibility: hidden;
+	position:absolute;
+	width:400px;
+	z-index:2;
+	background-color:white;
+	border-style:solid;
+	border-color:black;
+}	
+
+
+#svgContainer{
+	position:absolute;
+	z-index:1;
+	top:0%;
+	left:0%;
+}
+
+#container{
+	position:relative;
+}
